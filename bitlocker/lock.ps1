@@ -1,0 +1,1 @@
+Lock-BitLocker -MountPoint "E:" -ForceDismount
